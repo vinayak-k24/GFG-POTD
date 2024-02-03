@@ -38,7 +38,7 @@ struct Node
 class Solution
 {
     public:
-        // Should return decimal equivalent modulo 1000000007 of binary linked list 
+        // Should return decimal equivalent modulo 1000000007 of binary linked list
         long long unsigned int decimalValue(Node *head)
         {
             // Initialize result
